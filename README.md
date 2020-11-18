@@ -9,7 +9,7 @@
 - shutil
 - pynput
 
-All the modules aove except pynput are standard modules that come with python
+All the modules above except pynput are standard modules that come with python
 
 ## Steps to use this keylogger
 - Type this command in terminal if you have git installed 
@@ -22,7 +22,7 @@ All the modules aove except pynput are standard modules that come with python
 ## Point to note
 - This works only on Windows 7 and Windows 10 (I don't have Windows 8, so I do not know about that)
 - To use for Windows 7, Use the latest version of the file
-- For windows 7, use the earlier version of the file
+- For windows 10, use the earlier version of the file
 
 #### I have made this program such that it opens directly upons startup of computer
 #### You can very easily edit the file so that it runs in the background, but I am not doing because I do not want to give some person a readymade spyware software.
