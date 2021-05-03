@@ -1,1 +1,3 @@
-pipreqs
+pynput==1.7.3
+pyscreenshot==3.0
+sounddevice==0.4.1
