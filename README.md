@@ -29,12 +29,12 @@ I have also compiled it into a .exe file so that it runs on computers that do no
     ```\sh
     python3 main.py
     ```
-  * Using the compiled EXE file
-   - Type this command in your terminal
-      ```\sh
-      git clone https://github.com/IAmMaulik/KeyloggerPy.git
-      ```
-    - Run the keylogger.exe file
+* Using the compiled EXE file
+  - Type this command in your terminal
+    ```\sh
+    git clone https://github.com/IAmMaulik/KeyloggerPy.git
+    ```
+  - Run the keylogger.exe file
 
 
 
